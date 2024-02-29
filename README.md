@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-sudario-293894291/) [![Instagrem](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/calxs_thur/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calxss&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurClxs&show_icons=true&theme=synthwave)
 
 ## Tecnologias que uso no meu dia
 
